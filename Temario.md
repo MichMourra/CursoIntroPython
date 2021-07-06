@@ -1,27 +1,32 @@
 # Temas
 
-1. Presentación introducción
-2. Instalación e introducción a Jupyter y Anaconda
-3. Sintaxis básica
-4. Tipos de dato y variables
-5. Operadores (Aritméticos, Lógicos, Asignación, Comparación)
-6. Comentarios y documentación
-7. Manipular cadenas
-8. Listas, Tuplas, Sets
-9. Diccionarios y métodos de diccionarios
-10. Condicionales (if, else, elif)
-11. Entrada por teclado
-12. Bucles (for, while)
-13. Funciones
-14. Listas de comprension
-15. Manejo de excepciones (try, except)
-16. Manejo de errores
-17. Programación Orientada a objetos
-18. Herencia
-19. Isomorfismo
-20. Métodos sobre cadenas de texto
-21. Expresiones regulares
-22. Modulos
-23. Paquetes
-24. Manejo de archivos
-25. Interfaces gráficas
+1. Presentación introducción -> **Mich**
+2. Instalación e introducción a Jupyter y Anaconda -> **Mich (Windows y Mac), Lau (Linux)**
+3. Sintaxis básica -> **Lau**
+4. Tipos de dato y variables -> **Mich**
+5. Operadores (Aritméticos, Lógicos, Asignación, Comparación) -> **Lau**
+6. Comentarios y documentación -> **Lau**
+7. Metodos de cadenas de texto -> **Mich**
+8. Listas, Tuplas, Sets -> **Lau**
+9. Diccionarios y métodos de diccionarios -> **Lau**
+10. Condicionales (if, else, elif) -> **Mich**
+11. Bucles (for, while) -> **Mich**
+12. Entrada por teclado, print -> **Lau**
+13. Funciones -> **Lau**
+14. Listas de comprension, diccionarios de comprension -> **Mich**
+15. Manejo de excepciones (try, except) -> **Lau**
+16. Programación Orientada a objetos -> **Mich**
+17. Herencia -> **Mich**
+18. Isomorfismo -> **Mich**
+19. Expresiones regulares -> **Lau**
+20. Modulos -> **Lau**
+21. Manejo de archivos -> **Lau**
+22. Interfaces gráficas -> **Mich**
+
+## BONUS
+1. Diccionarios de comprensión
+2. Instalación de python en terminal
+3. Ejecución de scritps
+4. Argumentos linea de comandos
+5. Manejo de errores
+6. Instalación de Paquetes
