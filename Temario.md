@@ -8,10 +8,10 @@
 6. Comentarios y documentación
 7. Manipular cadenas
 8. Listas, Tuplas, Sets
-9. Condicionales (if, else, elif)
-10. Bucles (for, while)
+9. Diccionarios y métodos de diccionarios
+10. Condicionales (if, else, elif)
 11. Entrada por teclado
-12. Diccionarios y métodos de diccionarios
+12. Bucles (for, while)
 13. Funciones
 14. Listas de comprension
 15. Manejo de excepciones (try, except)
