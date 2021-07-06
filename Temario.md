@@ -1,7 +1,7 @@
 # Temas
 
 1. Presentación introducción
-2. Instalación Jupyter y Anaconda
+2. Instalación e introducción a Jupyter y Anaconda
 3. Sintaxis básica
 4. Tipos de dato y variables
 5. Operadores (Aritméticos, Lógicos, Asignación, Comparación)
